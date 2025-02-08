@@ -78,7 +78,7 @@ Here is the list of components we would require to build Audio Analysis Project.
 <!-- Circuit Diagram-->
 ## Circuit Diagram
 <div align="center"
-    <img src="images/ckt.png" alt="Logo" width="80" height="80"
+    <img src="img/ckt.jpg" alt="Logo" width="80" height="80"
 
   <h3 align="center">Circuit Diagram</h3>
 
