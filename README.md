@@ -26,7 +26,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#components-equired-to-build-electronic-game-board">Components Required to Build Electronic Game Board</a></li>
+        <li><a href="#components-equired-to-build-audio-analysis">Components Required to Build Audio Analysis</a></li>
       </ul>
     </li>
     <li>
@@ -60,8 +60,8 @@ The system is designed for real-time audio analysis, making it versatile for sou
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-### Components Required to Build Electronic Game Board
+<!-- Components Required to Build Audio Analysis -->
+## Components Required to Build Audio Analysis
 Here is the list of components we would require to build Audio Analysis Project.
 
 * ![ESP32](https://img.shields.io/badge/ESP32-informational?style=for-the-badge&logo=Aduino&logoColor=white&color=00979D)
