@@ -77,15 +77,15 @@ Here is the list of components we would require to build Audio Analysis Project.
 
 <!-- Circuit Diagram-->
 ## Circuit Diagram
-<div align="center"
-    <img src="img/ckt.jpg" alt="Logo" width="80" height="80">
-
+<div align="center">
+  <img src="img/ckt.jpg" alt="ckt" width="400" height="200">
   <h3 align="center">Circuit Diagram</h3>
-
   <p align="center">
     The circuit diagram above illustrates the connections between the ESP32, INMP441 microphone, OLED display, and the button for view switching. This setup allows for efficient audio capture and real-time analysis.
   </p>
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
