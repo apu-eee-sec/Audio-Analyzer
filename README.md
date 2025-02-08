@@ -25,9 +25,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#components-equired-to-build-audio-analysis">Components Required to Build Audio Analysis</a></li>
-      </ul>
+    </li>
+    <li>
+      <a href="#components-equired-to-build-audio-analysis">Components Required to Build Audio Analysis</a>
     </li>
     <li>
       <a href="#circuit-diagram">Circuit Diagram</a>
