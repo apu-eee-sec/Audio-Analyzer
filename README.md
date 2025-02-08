@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 ## 🌐 Link:
-[![Blog](https://img.shields.io/badge/%F0%9F%94%97-Blog-%2300C4CC.svg?logo=Portfolio&logoColor=white)]([](https://apu-eee-sec.netlify.app/files/audio%20analysis)) 
+[![Blog](https://img.shields.io/badge/%F0%9F%94%97-Blog-%2300C4CC.svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app/files/audio%20analysis)
 
 <!-- PROJECT LOGO -->
 <br />
