@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://apu-eee-sec.netlify.app/files/audio%20analysis">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Audio Analysis</h3>
