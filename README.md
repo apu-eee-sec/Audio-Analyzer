@@ -102,6 +102,8 @@ The output screenshot (in ESP32 local host) and video is given below.You can see
   </p>
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Output Video
 <div align="center">
   <a href="https://www.youtube.com/watch?v=StTqXEQ2l">
@@ -109,15 +111,15 @@ The output screenshot (in ESP32 local host) and video is given below.You can see
   </a>
 </div>
 		<p style="text-align:justify;">The video above demonstrates the functionality of our ESP32 Audio Analysis project. You can see the real-time analysis of audio signals, including decibel levels, frequency detection, and other parameters displayed on the OLED screen.</p>
-	
+
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 <!-- LICENSE -->
 ## License
 
 This work is licensed under the [MIT License](LICENSE). 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
