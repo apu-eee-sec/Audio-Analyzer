@@ -90,7 +90,7 @@ Here is the list of components we would require to build Audio Analysis Project.
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+This work is licensed under the [MIT License](LICENSE). 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
