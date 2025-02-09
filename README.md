@@ -89,6 +89,7 @@ Here is the list of components we would require to build Audio Analysis Project.
 
 <!-- Circuit Diagram-->
 ## Output
+### Output Screenshot
 <!-- LICENSE -->
 ## License
 
