@@ -94,8 +94,8 @@ The output screenshot (in ESP32 local host) and video is given below.You can see
 
 ### Output Screenshot
 <div align="center">
-  <img src="img/Output Screenshoot in ESP32 Local Host 1.jpg" alt="ckt" width="300" height="200">
-  <img src="img/Output Screenshoot in ESP32 Local Host 1.jpg" alt="ckt" width="300" height="200">
+  <img src="img/Output Screenshoot in ESP32 Local Host 1.jpg" alt="Output Screenshoot in ESP32 Local Host" width="300" height="200">
+  <img src="img/Output Screenshoot in ESP32 Local Host 2.jpg" alt="Output Screenshoot in ESP32 Local Host" width="300" height="200">
   <h3 align="center">Output Screenshoot in ESP32 Local Host</h3>
   <p align="center">
     The output of the ESP32 project is displayed on a local host website. In the first screenshot, the display shows the maximum decibel level, minimum decibel level, and current decibel level of the recorded sound. In the second screenshot, the output includes frequency, fundamental time, magnitude, and wavelength, providing a detailed analysis of the captured audio data.
