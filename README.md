@@ -87,6 +87,8 @@ Here is the list of components we would require to build Audio Analysis Project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Circuit Diagram-->
+## Output
 <!-- LICENSE -->
 ## License
 
