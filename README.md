@@ -79,7 +79,7 @@ Here is the list of components we would require to build Audio Analysis Project.
 ## Circuit Diagram
 <div align="center">
   <img src="img/ckt.jpg" alt="ckt" width="400" height="200">
-  <h3 align="center">Circuit Diagram</h3>
+  <p style="font-size:15px;" align="center"><b>Circuit Diagram</b></p>
   <p align="center">
     The circuit diagram above illustrates the connections between the ESP32, INMP441 microphone, OLED display, and the button for view switching. This setup allows for efficient audio capture and real-time analysis.
   </p>
@@ -96,7 +96,7 @@ The output screenshot (in ESP32 local host) and video is given below.You can see
 <div align="center">
   <img src="img/Output Screenshoot in ESP32 Local Host 1.jpg" alt="Output Screenshoot in ESP32 Local Host" width="300" height="200">
   <img src="img/Output Screenshoot in ESP32 Local Host 2.jpg" alt="Output Screenshoot in ESP32 Local Host" width="300" height="200">
-  <h3 align="center">Output Screenshoot in ESP32 Local Host</h3>
+  <p style="font-size:15px;" align="center"><b>Output Screenshoot in ESP32 Local Host</b></p>
   <p align="center">
     The output of the ESP32 project is displayed on a local host website. In the first screenshot, the display shows the maximum decibel level, minimum decibel level, and current decibel level of the recorded sound. In the second screenshot, the output includes frequency, fundamental time, magnitude, and wavelength, providing a detailed analysis of the captured audio data.
   </p>
