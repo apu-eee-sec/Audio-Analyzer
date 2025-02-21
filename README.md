@@ -106,8 +106,8 @@ The output screenshot (in ESP32 local host) and video is given below.You can see
 
 ### Output Video
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=StTqXEQ2l">
-    <img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" alt="Audio Analysis" width="300" height="200">
+  <a href="https://youtu.be/Cxrl2Zazye0">
+    <img src="https://img.youtube.com/vi/Cxrl2Zazye0/0.jpg" alt="Audio Analysis" width="300" height="200">
   </a>
 </div>
 		<p style="text-align:justify;">The video above demonstrates the functionality of our ESP32 Audio Analysis project. You can see the real-time analysis of audio signals, including decibel levels, frequency detection, and other parameters displayed on the OLED screen.</p>
