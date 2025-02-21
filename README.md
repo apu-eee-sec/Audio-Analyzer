@@ -10,7 +10,7 @@
     <img src="img/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Audio Analysis</h3>
+  <h3 align="center">Audio Analyzer</h3>
 
   <p align="center">
     An awesome projects using ESP 32 and INMP441 microphone.
