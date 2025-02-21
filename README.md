@@ -122,7 +122,7 @@ This work is licensed under the [MIT License](LICENSE).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Socials
+## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahbub-hasan-apu-698b71347) 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%94%97-Portfolio-%2300C4CC.svg?logo=Portfolio&logoColor=white)](https://apu-eee-sec.netlify.app) 
 [![Research Gate](https://img.shields.io/badge/Research%20Gate-white?logo=ResearchGate&logoColor=black)](https://www.researchgate.net/profile/Mahbub-Hasan-Apu) 
